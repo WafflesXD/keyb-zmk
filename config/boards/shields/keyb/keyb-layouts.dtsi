@@ -52,7 +52,7 @@
         complete;
 
         layout1: layout1 {
-            physical-layout = <&physical_layout0>;
+            physical-layout = <&keyb>;
             positions = <>;
         };
     };
