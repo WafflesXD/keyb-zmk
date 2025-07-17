@@ -6,6 +6,7 @@
     keyb: keyb {
         compatible = "zmk,physical-layout";
         display-name = "Keyb";
+        transform = <&default_transform>; // Label of the matrix transform for this layout
 
         keys  //                     w   h    x    y     rot    rx    ry
         = <&key_physical_attrs 100 100    0   50       0     0     0>
