@@ -2,7 +2,7 @@ file_format: "1"
 id: keyb
 name: Keyb
 type: shield
-url: https://github.com/WafflesXD/zmk-config-keyb#
+url: https://github.com/WafflesXD/zmk-config-keyb
 requires:
   - xiao_ble
 features:
